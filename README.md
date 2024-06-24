@@ -61,7 +61,3 @@ I am an experienced Front-End Web Developer and trained Data Scientist <img src=
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sarmadam)](https://git.io/streak-stats)
