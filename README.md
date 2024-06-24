@@ -21,9 +21,9 @@
 
 ---
 
-### :DATA_Scientist: About Me :
+### About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am an experienced Front-End Web Developer and trained Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I am passionate about learning and applying techniques in data science to facilitate more informed decision-making. Transitioning into Data Science from Web Development helped me to build a solid foundation in programming and development lifecycle.
 
